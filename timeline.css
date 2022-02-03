@@ -1,7 +1,11 @@
 body {
-    background: black;
+    background: white;
   }
   
+.heading{
+  text-align: center;
+  font-family: ;
+}  
   .timeline {
     margin: 0 auto;
     max-width: 750px;
