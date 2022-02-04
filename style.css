@@ -34,7 +34,7 @@ body, html{
   }
   nav>ul>li>a{
     display: block;
-    color: #FF6500;
+    color: gold;
     text-decoration: none;
     font-size :.9em;
     font-weight: bold;
